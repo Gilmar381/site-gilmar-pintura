@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gilmarazevedopintura.com.br/sitemap.xml
